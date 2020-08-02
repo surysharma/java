@@ -1,2 +1,2 @@
-# java
-Java data structures and examples
+# Java data structures and examples
+
